@@ -1,2 +1,2 @@
 # DipakPracticalExample
-This is a simple demonstration of creating repository in Githu
+This is a simple demonstration of creating repository in Github
